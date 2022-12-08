@@ -5,3 +5,4 @@
 5. 4-puts.c - a c program that print a result followed by a new line.
 6. 5-printf.c - a c program that returns a string to the stdout,
 7. 6-size.c - a c program that prints the size of various types on the computer its compiled and run on.
+8. 100-intel - a script file that generates assembly code of a C cod and saves it in an output file.
