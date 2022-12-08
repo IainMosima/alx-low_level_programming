@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - prints a sting to the stdout.
- * Return: 0 if succesful.
+ * main - Prints out a string to stdout.
+ * Return: 0 if success.
  */
-int main(void){
-	printf("with proper grammar, but outcome is a piece of art, \n");
-	return(0);
+int main(void)
+{
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
-
