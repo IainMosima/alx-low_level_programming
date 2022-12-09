@@ -14,5 +14,6 @@ int main(void)
         }
         ch++;
     }
+    putchar('/n');
     return (0);
 }
