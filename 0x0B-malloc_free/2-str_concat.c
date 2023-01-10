@@ -36,7 +36,7 @@ newStr[i] = s1[i];
 for (; s2[count] != '\0'; i++)
 {
 newStr[i] = s1[i];
-count ++;
+count++;
 }
 return (newStr);
 }
