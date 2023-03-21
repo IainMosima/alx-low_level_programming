@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * _strspn - finds the length of a prefix substring
  * @s: the string
